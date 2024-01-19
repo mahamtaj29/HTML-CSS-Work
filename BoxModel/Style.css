@@ -1,0 +1,14 @@
+.Box1, .Box2, .Box3{
+    color: rgb(194, 72, 16);
+    background-color: rgb(228, 225, 225);
+    border: 2px solid black;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 500px;
+    margin-left: 200px;
+
+}
+.Box1 h3{
+    padding: 20px;
+}
