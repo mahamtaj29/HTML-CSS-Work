@@ -1,0 +1,18 @@
+
+.NavBar ul li{
+    font-size: larger;
+    color: blue;
+    font-style: italic;
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+    }
+.NavBar{
+    background-color: tan;
+    position: sticky;
+    top: 0px;
+    margin: 0px;
+}
+.NavBar ul li a{
+    text-decoration: none
+    }
