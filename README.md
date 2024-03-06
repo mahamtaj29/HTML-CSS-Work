@@ -1,1 +1,1 @@
-Here I am uploading my soem of the HTML and CSS working and projects.
+Here I am uploading my some of the HTML and CSS practice working and projects.
